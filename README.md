@@ -1,7 +1,4 @@
-# NodeRestfulTesting
-API for node.js
+# SwiftPostgreSQL
+This is the sample project to deploy to heroku
 
-This is the testing project of backend API module , using the set of technologies : 
-- node.js
-- mysql 
-- RESTFUL API implementation using json R/W
+Server language is swift, deploying heroku and use heroku postgresql 
